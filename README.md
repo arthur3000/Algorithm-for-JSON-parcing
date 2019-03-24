@@ -6,3 +6,5 @@ Small algorithm that converts a simple JSON file into a CSV or XLS file accordin
 To run this you'll need: <br/>
 * Python 3.x
 * xlsxreader 1.2.2
+
+*Note: XLSX parsing is hardcoded and CSV parsing is a little more scalable*
